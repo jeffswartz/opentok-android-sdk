@@ -73,4 +73,5 @@ multiple sessions) using the [OpenTok server-side libraries](http://www.tokbox.c
 Connect with TokBox and with other OpenTok developers
 -----------------------------------------------------
 
-Your comments and questions are welcome. Come join the conversation at the [OpenTok iOS SDK forum](http://www.tokbox.com/forums/ios).
+Your comments and questions are welcome. Come join the conversation at the
+[OpenTok Android SDK forum](http://www.tokbox.com/forums/android).
