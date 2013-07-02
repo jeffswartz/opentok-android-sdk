@@ -25,6 +25,8 @@ Support is available at the [OpenTok forums](http://www.tokbox.com/forums/).
 Release Notes
 -------------
 
+#### v1.0 beta -- July 3, 2013
+
 This is a beta version of the OpenTok Android SDK. The Samsung Galaxy S3 is the only supported device for use with this SDK.
 This version of the SDK replaces the previous version of the OpenTok Android SDK, which is no longer supported.
   
@@ -49,8 +51,8 @@ Download the [OpenTok Android SDK demo app](https://github.com/opentok/opentok-a
 functionality of the OpenTok Android SDK: connecting to sessions, publishing streams, and subscribing to streams. It also shows
 how to add user interface controls for muting audio and selecting the camera used.
 
-Creating your own app using the OpenTok iOS SDK
------------------------------------------------
+Creating your own app using the OpenTok Android SDK
+---------------------------------------------------
 
 Add the opentok-android-sdk.jar file to your project's build path.
 
