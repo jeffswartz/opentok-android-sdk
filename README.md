@@ -25,7 +25,7 @@ Support is available at the [OpenTok forums](http://www.tokbox.com/forums/androi
 Release Notes
 -------------
 
-#### v1.0.1 -- July 31, 2013
+#### v1.0.1 -- August 1, 2013
 
 * A Publisher video now changes orientation correctly when the physical orientation of a device changes.
 * The OpenTok Android SDK includes now only one .so file. (In the previous version, there were two .so files.)
