@@ -25,7 +25,13 @@ Support is available at the [OpenTok forums](http://www.tokbox.com/forums/androi
 Release Notes
 -------------
 
-#### v1.0 beta -- July 3, 2013
+#### v1.0.1 -- July 31, 2013
+
+* A Publisher video now changes orientation correctly when the physical orientation of a device changes.
+* The OpenTok Android SDK includes now only one .so file. (In the previous version, there were two .so files.)
+* This version includes other fixes for performance and stability.
+
+#### v1.0 -- July 3, 2013
 
 This is a beta version of the OpenTok Android SDK. The Samsung Galaxy S3 is the only supported device for use with this SDK.
 This version of the SDK replaces the previous version of the OpenTok Android SDK, which is no longer supported.
